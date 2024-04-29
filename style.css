@@ -1,0 +1,49 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.bg-image{
+   width: 100vw;
+    height: 100vw;
+    background-image: url(assets/image\ 33.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.site-logo img{
+    margin-top: 20px;
+width: 100px;
+height: 30px;
+
+}
+.nav-bar{
+   
+    background-color: transparent;
+    float: right;
+    width: 50%;
+    margin-left: 40px;
+   color:white;
+}
+.btn{
+    color: #000;
+    background-color: white;
+    border: 1px white solid;
+    border-radius: 30px;
+    width: 80%;
+}
+.btn:hover{
+background-color: blueviolet;
+}
+
+.heading {
+   padding: 250px;
+   margin: 250px;
+   color: white;
+}
+@media only screen and (max-width: 600px;){
+.heading{
+    f
+}
+
+    
+}
